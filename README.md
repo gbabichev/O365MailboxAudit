@@ -1,9 +1,8 @@
 # O365 Mailbox Audit
 
-# PRE REQ's #
+PRE REQ's
 "Install-Module MSOnline"
 Copy MSSKus.csv to C:\
-# 
 
 RUN THIS ON AN EXCHANGE SERVER!
 
